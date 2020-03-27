@@ -1,11 +1,13 @@
 <template>
 	<view class="">
-		nihao
+		test
 	</view>
 </template>
 
 <script>
+
 </script>
 
 <style>
+
 </style>

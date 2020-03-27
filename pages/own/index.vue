@@ -1,5 +1,7 @@
 <template>
-	<view class="">你好</view>
+	<view class="">
+		hello
+	</view>
 </template>
 
 <script>

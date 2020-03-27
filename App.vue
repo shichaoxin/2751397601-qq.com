@@ -1,5 +1,10 @@
 <script>
 	export default {
+		data: {
+			return: {
+				auth: true
+			}
+		},
 		onLaunch: function() {
 			console.log('App Launch')
 		},
