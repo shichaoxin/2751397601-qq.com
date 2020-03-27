@@ -1,6 +1,8 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/index/index",
+    "pages/content/index",
+    "pages/own/index"
   ],
   "subPackages": [],
   "window": {
@@ -8,6 +10,26 @@
     "navigationBarTitleText": "uni-app",
     "navigationBarBackgroundColor": "#F8F8F8",
     "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#F0AD4E",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "home "
+      },
+      {
+        "pagePath": "pages/content/index",
+        "text": "内容 "
+      },
+      {
+        "pagePath": "pages/own/index",
+        "text": "我的"
+      }
+    ]
   },
   "usingComponents": {}
 }

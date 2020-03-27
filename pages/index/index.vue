@@ -21,9 +21,9 @@ export default {
   },
   onLoad() {},
   methods: {
-	  change(e) {
-		  console.log(e)
-	  }
+    change(e) {
+      console.log(e);
+    }
   }
 };
 </script>
