@@ -15,7 +15,7 @@
 		{
 			"path": "pages/own/index",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "个人信息"
 			}
 		}
 	],

@@ -1674,9 +1674,9 @@ function normalizeComponent (
 /***/ }),
 
 /***/ 13:
-/*!******************************************************!*\
-  !*** D:/hb/project/homework/homework/store/index.js ***!
-  \******************************************************/
+/*!*********************************************!*\
+  !*** D:/hb/project/homework/store/index.js ***!
+  \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2647,9 +2647,9 @@ var index_esm = {
 /***/ }),
 
 /***/ 15:
-/*!********************************************************!*\
-  !*** D:/hb/project/homework/homework/store/getters.js ***!
-  \********************************************************/
+/*!***********************************************!*\
+  !*** D:/hb/project/homework/store/getters.js ***!
+  \***********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2663,9 +2663,9 @@ getters;exports.default = _default;
 /***/ }),
 
 /***/ 16:
-/*!*************************************************************!*\
-  !*** D:/hb/project/homework/homework/store/modules/data.js ***!
-  \*************************************************************/
+/*!****************************************************!*\
+  !*** D:/hb/project/homework/store/modules/data.js ***!
+  \****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8741,9 +8741,9 @@ module.exports = g;
 /***/ }),
 
 /***/ 4:
-/*!**************************************************!*\
-  !*** D:/hb/project/homework/homework/pages.json ***!
-  \**************************************************/
+/*!*****************************************!*\
+  !*** D:/hb/project/homework/pages.json ***!
+  \*****************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8753,9 +8753,9 @@ module.exports = g;
 /***/ }),
 
 /***/ 42:
-/*!***********************************************************************!*\
-  !*** D:/hb/project/homework/homework/components/uni-calendar/util.js ***!
-  \***********************************************************************/
+/*!**************************************************************!*\
+  !*** D:/hb/project/homework/components/uni-calendar/util.js ***!
+  \**************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9091,9 +9091,9 @@ Calendar;exports.default = _default;
 /***/ }),
 
 /***/ 43:
-/*!***************************************************************************!*\
-  !*** D:/hb/project/homework/homework/components/uni-calendar/calendar.js ***!
-  \***************************************************************************/
+/*!******************************************************************!*\
+  !*** D:/hb/project/homework/components/uni-calendar/calendar.js ***!
+  \******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10546,9 +10546,9 @@ module.exports = {"_from":"@dcloudio/uni-stat@next","_id":"@dcloudio/uni-stat@2.
 /***/ }),
 
 /***/ 65:
-/*!*********************************************************************!*\
-  !*** D:/hb/project/homework/homework/components/uni-icons/icons.js ***!
-  \*********************************************************************/
+/*!************************************************************!*\
+  !*** D:/hb/project/homework/components/uni-icons/icons.js ***!
+  \************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10688,21 +10688,21 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /***/ }),
 
 /***/ 7:
-/*!*******************************************************************!*\
-  !*** D:/hb/project/homework/homework/pages.json?{"type":"style"} ***!
-  \*******************************************************************/
+/*!**********************************************************!*\
+  !*** D:/hb/project/homework/pages.json?{"type":"style"} ***!
+  \**********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/index/index": { "navigationBarTitleText": "uni-app" }, "pages/content/index": { "navigationBarTitleText": "uni-app" }, "pages/own/index": { "navigationBarTitleText": "uni-app" } }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/index/index": { "navigationBarTitleText": "uni-app", "usingComponents": { "uni-calendar": "/components/uni-calendar/uni-calendar", "uni-search-bar": "/components/uni-search-bar/uni-search-bar" }, "usingAutoImportComponents": { "uni-calendar": "/components/uni-calendar/uni-calendar", "uni-search-bar": "/components/uni-search-bar/uni-search-bar" } }, "pages/content/index": { "navigationBarTitleText": "uni-app", "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/own/index": { "navigationBarTitleText": "个人信息", "usingComponents": {}, "usingAutoImportComponents": {} } }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
 
 /***/ }),
 
 /***/ 8:
-/*!******************************************************************!*\
-  !*** D:/hb/project/homework/homework/pages.json?{"type":"stat"} ***!
-  \******************************************************************/
+/*!*********************************************************!*\
+  !*** D:/hb/project/homework/pages.json?{"type":"stat"} ***!
+  \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

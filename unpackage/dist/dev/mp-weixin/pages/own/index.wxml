@@ -1,1 +1,1 @@
-<view>hello</view>
+<view><view class="center">{{''+userInfo.nickName+''}}</view></view>
